@@ -24,5 +24,19 @@ div {
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
 
-    border: 5px solid red;
+    border: 5px solid blue;
+}
+
+table {
+    border: 2px solid black;
+}
+
+th {
+    border: 1px solid black;
+    font-size: 30px;
+}
+
+td {
+    border: 1px solid black;
+    font-size: 30px;
 }
